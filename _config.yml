@@ -10,4 +10,4 @@ description: List of bug bounties & disclosure programs.
 url: http://bountypage.io
 repo: https://github.com/techbrunch/bountypage
 img: img/logo.png
-baseurl: /bountypage
+# baseurl: /bountypage
