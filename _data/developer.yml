@@ -1,0 +1,17 @@
+websites:
+- name: GitHub
+  img: github.png
+  url: https://bounty.github.com/
+  bounty: Yes
+  swag: Yes
+  hof:
+      - url: https://bounty.github.com/#leaderboard
+  reward: Yes
+
+- name: Heroku
+  url: https://www.heroku.com/policy/security#vuln_report
+  img: heroku.png
+  bounty: Yes
+  hof:
+      - url: https://www.heroku.com/policy/security-hall-of-fame
+  swag: Yes

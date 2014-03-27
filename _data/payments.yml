@@ -1,0 +1,8 @@
+websites:
+    - name: PayPal
+      img: paypal.png
+      url: https://www.paypal.com/webapps/mpp/security-tools/reporting-security-issues
+      bounty: Yes
+      hof:
+          - url: https://www.paypal.com/webapps/mpp/security-tools/wall-of-fame
+      reward: Yes

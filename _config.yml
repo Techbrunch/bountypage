@@ -1,0 +1,12 @@
+safe: true
+pygments: true
+permalink: pretty
+markdown: liquid
+
+title: BountyPage.io - List of bug bounties & disclosure programs.
+author: Aloïs Thévenot
+blog: http://techbrunch.github.io/
+description: List of bug bounties & disclosure programs.
+url: http://bountypage.io
+repo: https://github.com/techbrunch/bountypage
+img: img/logo.png

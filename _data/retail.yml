@@ -1,0 +1,8 @@
+websites:
+    - name: eBay
+      url: http://pages.ebay.com/securitycenter/Researchers.html
+      twitter: eBay
+      img: ebay.png
+      bounty: Yes
+      hof:
+          - url: http://pages.ebay.com/securitycenter/ResearchersAcknowledgement.html
