@@ -1,7 +1,0 @@
-websites:
-    - name: Facebook
-      url: https://www.facebook.com/whitehat/
-      img: facebook.png
-      bounty: Yes
-      hof:
-          - url: https://www.facebook.com/whitehat/

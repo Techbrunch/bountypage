@@ -35,7 +35,7 @@ layout: default
         <div class="column">
 
             <div class="banner ui icon header">
-<!--                 <i class="circular mobile icon"></i> -->
+                <i class="circular bug icon"></i>
                 <h2>BountyPage.IO</h2>
                 <div class="sub header">List of
                   <a href="http://en.wikipedia.org/wiki/Open-source_bounty">bug bounties</a>
@@ -85,7 +85,7 @@ layout: default
                                                 <a href="{{ website.url }}">{{ website.name }}</a>
                                             </td>
 
-                                            {% if website.reward %}
+                                            {% if website.reward == 'Yes' %}
                                                 <td class="positive icon">
                                                     <i class="checkmark large icon"></i>
                                                 </td>
@@ -95,7 +95,7 @@ layout: default
                                                 </td>
                                             {% endif %}
 
-                                            {% if website.swag %}
+                                            {% if website.swag == 'Yes' %}
                                                 <td class="positive icon">
                                                     <i class="checkmark large icon"></i>
                                                 </td>
@@ -105,7 +105,7 @@ layout: default
                                                 </td>
                                             {% endif %}
 
-                                            {% if website.hof %}
+                                            {% if website.hof == 'Yes' %}
                                                 <td class="positive icon">
                                                     <i class="checkmark large icon"></i>
                                                 </td>
